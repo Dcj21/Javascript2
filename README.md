@@ -4,20 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+Novemeber 2, 2018
 
 ### Student Name:  
-(First and Last Name)
+Juan D Carballo Sanchez
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This lesson introduces the advantages of code modularization and reusable code by using conditional statements, loops, and functions.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://dcj21.github.io/lesson5_Javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. how to the clearButton function
+2. utilzation of if-else statements
+3. use of selectIndex 
